@@ -1,3 +1,2 @@
 theme: jekyll-whiteglass
-theme-remote: yous/whiteglass
-theme_remote: yous/whiteglass
+remote_theme: yous/whiteglass
