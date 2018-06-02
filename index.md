@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+---
+layout: page
+---
 
-You can use the [editor on GitHub](https://github.com/geeksgogreen/geeksgogreen.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+<p>A geek couple living in the forest alone. They make stuff. Some of them are usefull.</p>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<p style="text-align: center">We are active on:</p>
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/geeksgogreen/geeksgogreen.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<p style="text-align: center">
+	<a href="https://www.youtube.com/channel/UCuhAlcw2yi3BbSZkaPNBcJg" target="_blank">
+		<img src="/assets/img/icons/youtube.png" />
+	</a>
+	<a href="https://www.instagram.com/farmnerd/" target="_blank">
+		<img src="/assets/img/icons/instagram.png" />
+	</a>
+	<a href="http://facebook.com/geeksgogreen" target="_blank">
+		<img src="/assets/img/icons/facebook.png" />
+	</a>
+	<a href="http://geeksgogreen.tumblr.com/" target="_blank">
+		<img src="/assets/img/icons/tumblr.png" />
+	</a>
+	<a href="https://www.pinterest.com/geeksgogreen/" target="_blank">
+		<img src="/assets/img/icons/pinterest.png" />
+	</a><br />
+	<a href="https://imgur.com/user/GeeksGoGreen/" target="_blank">
+		<img src="/assets/img/icons/imgur.png" />
+	</a>
+	<a href="https://www.thingiverse.com/GeeksGoGreen/" target="_blank">
+		<img src="/assets/img/icons/thingiverse3.png" />
+	</a>
+</p>
