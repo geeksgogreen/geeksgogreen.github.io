@@ -56,7 +56,7 @@ defaults:
     values:
       image: true
 
-google_analytics: UA-120258339-1'
+google_analytics: UA-120258339-1
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

@@ -2,7 +2,7 @@
 layout: page
 ---
 
-<p>A geek couple living in the forest alone. They make stuff. Some of them are usefull.</p>
+<p>Geeky farmer couple live in the hungarian forest. We strive to be self-sustainable and solve all problems of the world :)</p>
 
 <p style="text-align: center">We are active on:</p>
 
@@ -16,15 +16,15 @@ layout: page
 	<a href="http://facebook.com/geeksgogreen" target="_blank">
 		<img src="/assets/img/icons/facebook.png" />
 	</a>
-	<a href="http://geeksgogreen.tumblr.com/" target="_blank">
+<!-- 	<a href="http://geeksgogreen.tumblr.com/" target="_blank">
 		<img src="/assets/img/icons/tumblr.png" />
-	</a>
-	<a href="https://www.pinterest.com/geeksgogreen/" target="_blank">
+	</a> -->
+<!-- 	<a href="https://www.pinterest.com/geeksgogreen/" target="_blank">
 		<img src="/assets/img/icons/pinterest.png" />
-	</a><br />
-	<a href="https://imgur.com/user/GeeksGoGreen/" target="_blank">
+	</a><br /> -->
+<!-- 	<a href="https://imgur.com/user/GeeksGoGreen/" target="_blank">
 		<img src="/assets/img/icons/imgur.png" />
-	</a>
+	</a> -->
 	<a href="https://www.thingiverse.com/GeeksGoGreen/" target="_blank">
 		<img src="/assets/img/icons/thingiverse3.png" />
 	</a>
