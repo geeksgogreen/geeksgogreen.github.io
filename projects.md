@@ -4,7 +4,7 @@ title: "Our Projects"
 permalink: /projects/
 ---
 
-Coming soon...
+We keep our project documentation here. Coming soon...
 
 - Open-source polytunnel/greenhouse controller (Arduino based)
 	- keeping record of inside/outside temperature&humidity
@@ -14,4 +14,5 @@ Coming soon...
 - Open-source agricultural spraying drone
 - 3D printed mushroom inoculation handtool
 - Algae growbox and harvester (Arduino based)
-- Beehive data collector (Adafruit feather based): real-time and historical data access to the weight, temperature and humidity of the beehive 
+- Beehive data collector (Adafruit feather based): real-time and historical data access to the weight, temperature and humidity of the beehive
+- Building and tweaking [Farmbot](http://farm.bot/)
